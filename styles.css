@@ -438,7 +438,7 @@ figcaption{
     filter: saturate(200%);
 }
 
-/* TO DO: Add a filter here to add a drop shadow to this element with a negative three pixel x offset, a 3 pixel y offset, five pixels of blur, and uses the medium gray CSS variable */
+
 .filter5{
     filter: drop-shadow(-3px 3px 5px var(--med-gray));
     max-height: 400px;
